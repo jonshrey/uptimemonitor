@@ -61,4 +61,4 @@ The AI tools were excellent at generating boilerplate, but they defaulted to out
 
 ## 🧭 Takeaway
 
-AI tools accelerated scaffolding significantly, but every layer — dependency injection, REST semantics, JDK/Docker alignment, framework migrations, and even line-ending conventions — still needed a human pass to catch subtle, non-obvious issues that only surface at build or runtime.
+AI tools accelerated scaffolding significantly, but every layer — dependency injection, REST semantics, JDK/Docker alignment, framework migrations, and even line-ending conventions — still needed a human pass to catch subtle, non-obvious issues that only surface at build or runtime. Final finsihing touches was done with the help of claude specially formatting and writing README.

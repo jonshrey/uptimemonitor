@@ -45,7 +45,7 @@ public class PingService {
     public void performPing(Url url) {
         long start = System.currentTimeMillis();
         String status = "DOWN";
-        long responseTime = -1;
+        long responseTime;
         
         String address = url.getAddress();
         if (!address.startsWith("http://") && !address.startsWith("https://")) {
